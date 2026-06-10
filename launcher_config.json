@@ -17,7 +17,7 @@
   "servers": [
     {
       "name": "Brilliant RP #1",
-      "ip": "141.95.234.19,
+      "ip": "141.95.234.19",
       "port": 1333,
       "x2": false,
       "online": 0,
